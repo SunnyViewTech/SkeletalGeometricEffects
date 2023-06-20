@@ -1,6 +1,22 @@
-Skeletal Geometric Effects
+Skeletal Geometric Effects with Dollars MoCap
 ==========================
 
+
+
+https://github.com/SunnyViewTech/SkeletalGeometricEffects/assets/123790383/8cd48bdd-30a3-4870-ae93-acc1dadafd25
+
+
+
+Usage
+-------------------
+1. Open Dollars MoCap
+2. Enable Unity Streaming
+
+
+
+
+Original README
+========
 Experiments on geometry shader instancing with skeletal animations.
 
 ![gif](https://i.imgur.com/OFi7fsr.gif)
